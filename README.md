@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @danielneves. I'm ux designer
+- 👋 Hey, I’m @danielneves. I'm a product/ux designer
 - 👀 interested in art, design and videogames
 - 🌱 currently learning javascipt and python
 - 💞️ looking to collaborate on art projetcts
